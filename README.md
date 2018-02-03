@@ -4,3 +4,6 @@ Questo spazio è stato creato per raccogliere feedback sul nuovo [**portale sui 
 
 
 **Specificare qui, il tipo di segnalazioni che gestirete.**
+
+- un elenco puntato ci sta bene
+- mettilo presto
